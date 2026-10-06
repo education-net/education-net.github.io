@@ -1,0 +1,8 @@
+{
+  "name": "Education Network",
+  "short_name": "EduNet",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#dcefff",
+  "theme_color": "#dcefff"
+}
