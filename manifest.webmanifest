@@ -3,6 +3,6 @@
   "short_name": "EduNet",
   "start_url": "/",
   "display": "browser",
-  "background_color": "#f2f7fc",
-  "theme_color": "#f2f7fc"
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
 }
